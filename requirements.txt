@@ -1,8 +1,8 @@
 Pillow
 gradio
 qwen-vl-utils
-git+https://github.com/huggingface/transformers.git
+transformers==4.45
 openvino==2024.4.0
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch==2.3.1
-torchvision
+torchvision==0.18.1

@@ -1,5 +1,5 @@
-# qwen-vl-demo
-Qwen2.5-VL demo with OpenVINO
+# Qwen-VL-demo
+Qwen2-VL demo with OpenVINO
 
 Setup environment.
 
