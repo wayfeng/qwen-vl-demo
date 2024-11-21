@@ -1,5 +1,5 @@
 Pillow
-gradio
+gradio==4.44.0
 qwen-vl-utils
 transformers==4.45
 openvino==2024.4.0
